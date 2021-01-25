@@ -1,0 +1,101 @@
+#next {
+  position: fixed;
+  bottom: 50px;
+  right: 5%;
+}
+.card {
+  min-height: 85vh;
+}
+.brand-logo {
+  font-weight: 700;
+  font-size: 40px;
+}
+.card-content p {
+  color: #fff;
+  font-size: 30px;
+}
+h3 {
+  font-size: 60px;
+  color: #fff;
+  font-weight: 900;
+}
+#img-straaange {
+  padding: 0px;
+}
+#number {
+  /* font-size: 14vw; */
+  font-weight: 600;
+}
+#gp-objectives {
+  font-size: 5vw;
+}
+#why {
+  position: fixed;
+  bottom: 0;
+  right: 45%;
+}
+#btn-index {
+  position: fixed;
+  bottom: 15px;
+}
+#text-info p {
+  position: fixed;
+  bottom: 120px;
+  width: 100%;
+  margin: auto;
+}
+.header {
+  padding-top: 45vh;
+}
+.wrapper {
+  min-height: 100vh;
+}
+.btn {
+  margin: auto;
+  margin-bottom: 50px;
+}
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+  font-size: 30pt;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+h2 {
+  text-align: left;
+  margin: 0;
+  text-transform: lowercase;
+  font-size: 20px;
+  font-weight: 500;
+  width: 75%;
+  display: none;
+}
+
+#table {
+	display: table;
+	width: 100%;
+	height: 100%;
+
+}
+
+#centeralign {
+	display: table-cell;
+	vertical-align: middle;
+}
+#eyes {
+  color:white;
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  position: absolute;
+  z-index: 100;
+  bottom: 0;
+  color:black;
+  width: 100%;
+}
+.modal-trigger  {
+  text-decoration: none;
+  color: white;
+}
